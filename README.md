@@ -1,4 +1,4 @@
-# SO-ARM101 Pick-and-Place 🦾
+# Autonomous Robot Arm
 
 A physical robotic arm trained end-to-end to pick up a block and place it in a bin, using imitation learning on real hardware.
 
