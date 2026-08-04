@@ -1,4 +1,4 @@
-# SO-ARM101 Pick-and-Place 
+# SO-ARM101 Pick-and-Place 🦾
 
 A physical robotic arm trained end-to-end to pick up a block and place it in a bin, using imitation learning on real hardware.
 
@@ -6,6 +6,8 @@ A physical robotic arm trained end-to-end to pick up a block and place it in a b
 
 **Dataset:** [prishaakapasi/pick_place_v1](https://huggingface.co/datasets/prishaakapasi/pick_place_v1)
 **Trained policy:** [prishaakapasi/pick_place_smolvla_policy](https://huggingface.co/prishaakapasi/pick_place_smolvla_policy)
+
+[Portfolio case study →](https://www.prishaakapasi.com/engineering/6)
 
 <br>
 
